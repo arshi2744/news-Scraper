@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CatLibWilk/news-scraper.git"
+    "url": "git+https://github.com/arshi2744/news-scraper.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CatLibWilk/news-scraper/issues"
+    "url": "https://github.com/arshi2744/news-scraper/issues"
   },
-  "homepage": "https://github.com/CatLibWilk/news-scraper#readme",
+  "homepage": "https://github.com/arshi2744/news-scraper#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "cheerio": "^1.0.0-rc.2",
